@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "mlletni1mripfmr86vr",
+    "recipientId": "worker002",
+    "recipientType": "worker",
+    "recipientName": "Sunita Devi",
+    "workerId": "worker002",
+    "workerName": "Sunita Devi",
+    "month": "2026-01",
+    "baseSalary": 10000,
+    "bonus": 0,
+    "deductions": 0,
+    "totalSalary": 10000,
+    "paymentStatus": "Unpaid",
+    "collegeId": "4"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "room001",
+    "roomName": "Lecture Hall A-101",
+    "block": "A",
+    "floor": 1,
+    "status": "Available",
+    "activeComplaintId": null,
+    "activeEventId": null,
+    "collegeId": "4",
+    "capacity": 100,
+    "roomType": "Lecture Hall"
+  },
+  {
+    "_id": "room002",
+    "roomName": "Lecture Hall A-102",
+    "block": "A",
+    "floor": 1,
+    "status": "Available",
+    "activeComplaintId": null,
+    "activeEventId": null,
+    "collegeId": "4",
+    "capacity": 100,
+    "roomType": "Lecture Hall"
+  },
+  {
+    "_id": "room003",
+    "roomName": "Lab B-201",
+    "block": "B",
+    "floor": 2,
+    "status": "Under Maintenance",
+    "activeComplaintId": "mlkriar6ush01jk6d8g",
+    "activeEventId": null,
+    "collegeId": "4",
+    "capacity": 40,
+    "roomType": "Laboratory"
+  },
+  {
+    "_id": "room004",
+    "roomName": "Lab B-202",
+    "block": "B",
+    "floor": 2,
+    "status": "Available",
+    "activeComplaintId": null,
+    "activeEventId": null,
+    "collegeId": "4",
+    "capacity": 40,
+    "roomType": "Laboratory"
+  },
+  {
+    "_id": "room005",
+    "roomName": "Auditorium",
+    "block": "C",
+    "floor": 1,
+    "status": "Event Ongoing",
+    "activeComplaintId": null,
+    "activeEventId": "mll3lokqnb1200ri9fs",
+    "collegeId": "4",
+    "capacity": 500,
+    "roomType": "Auditorium"
+  },
+  {
+    "_id": "room006",
+    "roomName": "Library Reading Room",
+    "block": "D",
+    "floor": 1,
+    "status": "Available",
+    "activeComplaintId": null,
+    "activeEventId": null,
+    "collegeId": "4",
+    "capacity": 200,
+    "roomType": "Library"
+  },
+  {
+    "_id": "room007",
+    "roomName": "Computer Lab C-301",
+    "block": "C",
+    "floor": 3,
+    "status": "Reserved",
+    "activeComplaintId": null,
+    "activeEventId": null,
+    "collegeId": "4",
+    "capacity": 50,
+    "roomType": "Computer Lab"
+  },
+  {
+    "_id": "room008",
+    "roomName": "Conference Room D-201",
+    "block": "D",
+    "floor": 2,
+    "status": "Available",
+    "activeComplaintId": null,
+    "activeEventId": null,
+    "collegeId": "4",
+    "capacity": 30,
+    "roomType": "Conference Room"
+  },
+  {
+    "_id": "room009",
+    "roomName": "Washroom Block A - Ground",
+    "block": "A",
+    "floor": 0,
+    "status": "Available",
+    "activeComplaintId": null,
+    "activeEventId": null,
+    "collegeId": "4",
+    "capacity": null,
+    "roomType": "Washroom"
+  },
+  {
+    "_id": "room010",
+    "roomName": "Cafeteria",
+    "block": "E",
+    "floor": 1,
+    "status": "Available",
+    "activeComplaintId": null,
+    "activeEventId": null,
+    "collegeId": "4",
+    "capacity": 300,
+    "roomType": "Cafeteria"
+  }
+]

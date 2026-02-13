@@ -1,0 +1,14 @@
+[
+  {"_id":"1","name":"MIT Campus","logo":"","location":"Cambridge, MA","emailDomain":"mit.edu","description":"Massachusetts Institute of Technology"},
+  {"_id":"2","name":"Stanford University","logo":"","location":"Stanford, CA","emailDomain":"stanford.edu","description":"Stanford University Campus"},
+  {"_id":"3","name":"IIT Delhi","logo":"","location":"New Delhi, India","emailDomain":"iitd.ac.in","description":"Indian Institute of Technology Delhi"},
+  {"_id":"4","name":"VNR VJIET","logo":"","location":"Hyderabad, India","emailDomain":"vnrvjiet.ac.in","description":"VNR Vignana Jyothi Institute of Engineering and Technology"},
+  {"_id":"5","name":"VNR","logo":"","location":"Hyderabad, India","emailDomain":"vnrvjiet.ac.in","description":"VNR - Vignana Jyothi Institute of Engineering and Technology"},
+  {"_id":"6","name":"BITS Pilani","logo":"","location":"Pilani, Rajasthan","emailDomain":"pilani.bits-pilani.ac.in","description":"Birla Institute of Technology and Science, Pilani"},
+  {"_id":"7","name":"NIT Warangal","logo":"","location":"Warangal, Telangana","emailDomain":"student.nitw.ac.in","description":"National Institute of Technology Warangal"},
+  {"_id":"8","name":"JNTU Hyderabad","logo":"","location":"Hyderabad, Telangana","emailDomain":"jntuh.ac.in","description":"Jawaharlal Nehru Technological University Hyderabad"},
+  {"_id":"9","name":"IIT Bombay","logo":"","location":"Mumbai, India","emailDomain":"iitb.ac.in","description":"Indian Institute of Technology Bombay"},
+  {"_id":"10","name":"IIT Madras","logo":"","location":"Chennai, India","emailDomain":"smail.iitm.ac.in","description":"Indian Institute of Technology Madras"},
+  {"_id":"11","name":"Osmania University","logo":"","location":"Hyderabad, Telangana","emailDomain":"osmania.ac.in","description":"Osmania University"},
+  {"_id":"12","name":"Chaitanya Bharathi Institute of Technology","logo":"","location":"Hyderabad, Telangana","emailDomain":"cbit.ac.in","description":"Chaitanya Bharathi Institute of Technology"}
+]

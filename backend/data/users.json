@@ -1,0 +1,138 @@
+[
+  {
+    "_id": "mlkrhgqcsnubwk9ktr",
+    "fullName": "niharikamuddapu7@gmail.com",
+    "email": "niharikamuddapu7@vnrvjiet.ac.in",
+    "pin": "$2b$10$rscVgj9xBYaIO7rcOHdwCeOdwKlafpPmBwGGeZmHP6BSSek5OeK8q",
+    "role": "admin",
+    "collegeId": "4"
+  },
+  {
+    "_id": "mlkst1jannpbwjktrra",
+    "fullName": "vamsi",
+    "email": "you@vnrvjiet.ac.in",
+    "pin": "$2b$10$Hq1fPRwM/UvO00f41ou7auSIEDD9sFSsuHvRvGIk3oG2h/yIsR4IS",
+    "role": "student",
+    "collegeId": "4"
+  },
+  {
+    "_id": "mlkt61i6rwcfxnkzstj",
+    "fullName": "john doe",
+    "email": "you@mit.edu",
+    "pin": "$2b$10$YRMywdpaqKYE8abqx4suUOcE3h6.3i6PSgyYQzYgELMvRGGDpsjxS",
+    "role": "technician",
+    "collegeId": "1"
+  },
+  {
+    "_id": "mll2mbg18wsqa8m2qr9",
+    "fullName": "vamsi",
+    "email": "vnr@vnrvjiet.ac.in",
+    "pin": "$2b$10$lwUSVGilu74oihxIW510Oue/8TYwM429.HacjmuoDgm8m.N5ymBDK",
+    "role": "student",
+    "collegeId": "4"
+  },
+  {
+    "_id": "mll3exxw2bspy6c0es",
+    "fullName": "vamsi",
+    "email": "vamsi@vnrvjiet.ac.in",
+    "pin": "$2b$10$LCBUJTmSIPfkkhUiLASRNuk4ctA/avIsHU9zVKPZNAdnU7MnVYYgu",
+    "role": "admin",
+    "collegeId": "4"
+  },
+  {
+    "_id": "mll4jifboaiyn98b1j",
+    "fullName": "vikram",
+    "email": "vikramsingh@technician.local",
+    "pin": "$2b$10$E0FoWaXs04uMcRGftV2mLO/frjIlquHY9Z3t8A7Neg4eOetBNBgS.",
+    "role": "technician",
+    "collegeId": "4"
+  },
+  {
+    "_id": "mll4jihekfavfvsktwd",
+    "fullName": "Suresh Reddy",
+    "email": "sureshreddy@technician.local",
+    "pin": "$2b$10$Kortw4g9QUJ2V//W8cxyw.hKUwLS8gJirx2iPD4ze2u0zb1wVIKlW",
+    "role": "technician",
+    "collegeId": "4"
+  },
+  {
+    "_id": "mll4jijixi1pogja8b",
+    "fullName": "Mohammed Ali",
+    "email": "mohammedali@technician.local",
+    "pin": "$2b$10$XALYGDaCSpqUAWf8qL5TwebVtBjpUy3HbeIvGRBne90hNIQidmnqK",
+    "role": "technician",
+    "collegeId": "4"
+  },
+  {
+    "_id": "mll4jill44v72uul5mf",
+    "fullName": "Kiran Desai",
+    "email": "kirandesai@technician.local",
+    "pin": "$2b$10$31JFT5ZO.w/Q4mK7Djm1cuN8A/Ae9/r3z8dTy.07Sve3J8lUkusvS",
+    "role": "technician",
+    "collegeId": "4"
+  },
+  {
+    "_id": "mll4jinq9sgpqzucxmu",
+    "fullName": "Deepak Joshi",
+    "email": "deepakjoshi@technician.local",
+    "pin": "$2b$10$K8EIQMPhUPkHCVO6B3jxMOTvgkf.i0M7HhYeavoPqzQerQC9gml2C",
+    "role": "technician",
+    "collegeId": "4"
+  },
+  {
+    "_id": "mll4jiqxqa0dzjtgvsc",
+    "fullName": "Ravi Verma",
+    "email": "raviverma@technician.local",
+    "pin": "$2b$10$bZ.b1QRZGvS8wWpVxBBuHu4b965BS2SpUdH.oVjgR.9.mX3ppucAe",
+    "role": "technician",
+    "collegeId": "4"
+  },
+  {
+    "_id": "mll4jisy06ua7598gb5q",
+    "fullName": "Naveen Kumar",
+    "email": "naveenkumar@technician.local",
+    "pin": "$2b$10$ko54l6/lwySn2FXUdcu62uHASZxFA29J8BjTBuN3/zzJAr1A9/bjW",
+    "role": "technician",
+    "collegeId": "4"
+  },
+  {
+    "_id": "mll4jiv1gtoqwrcgbf7",
+    "fullName": "Pradeep Rao",
+    "email": "pradeeprao@technician.local",
+    "pin": "$2b$10$PvHv9XBkzhVOsM6o5x0f4.BUMsqqQqPpsE3jwM8wjA8/Mbx3ig0NO",
+    "role": "technician",
+    "collegeId": "4"
+  },
+  {
+    "_id": "mll4jix089wzqd8j91",
+    "fullName": "Rajesh Kumar",
+    "email": "rajeshkumar@technician.local",
+    "pin": "$2b$10$KYV7jmeBgVoFan7AV/tamu/9ZGadwwqkbkwwq.LgAQwtatNidFPuy",
+    "role": "technician",
+    "collegeId": "4"
+  },
+  {
+    "_id": "mll4jiz19cphdyrs6sr",
+    "fullName": "Lakshmi Devi",
+    "email": "lakshmidevi@technician.local",
+    "pin": "$2b$10$pI2leNOWm0c./R6HrxF/L.tXtInb1fXej1gX4q/.lHNvC6V0KCMpK",
+    "role": "technician",
+    "collegeId": "4"
+  },
+  {
+    "_id": "mll5esojwwdujedkwna",
+    "fullName": "v",
+    "email": "vnr1@vnrvjiet.ac.in",
+    "pin": "$2b$10$Hx0tn9rO7rBkP0JsPh4PDO2DPY1Z8fmtdXFXGezwjhMqErOZVzmfK",
+    "role": "student",
+    "collegeId": "4"
+  },
+  {
+    "_id": "mlldoqoceoamnrmtkw",
+    "fullName": "v",
+    "email": "vnr1@vnrvjiet.ac.in",
+    "pin": "$2b$10$7.z9zYJ8zaNHRQQ7dokjl.e2itP0K/qM6YUgaK2gctc1/TEIu9k7m",
+    "role": "student",
+    "collegeId": "5"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "mll3lokqnb1200ri9fs",
+    "eventName": "hackathon",
+    "date": "2026-02-13",
+    "location": "ks audi",
+    "description": "",
+    "assignedWorkers": [],
+    "departmentAssignments": {},
+    "status": "Upcoming",
+    "collegeId": "4"
+  },
+  {
+    "_id": "mll7wxbaq8c3pmejioc",
+    "eventName": "hack",
+    "date": "2026-02-13",
+    "location": "e block",
+    "description": "2nd floor",
+    "assignedWorkers": [],
+    "departmentAssignments": {},
+    "status": "Upcoming",
+    "collegeId": "4"
+  },
+  {
+    "_id": "mll7zs1gze6geqykd6o",
+    "eventName": "seminar",
+    "date": "2026-02-10",
+    "location": "audi",
+    "description": "",
+    "assignedWorkers": [],
+    "departmentAssignments": {},
+    "status": "Upcoming",
+    "collegeId": "4"
+  },
+  {
+    "_id": "mll869zpj1g1hndfs7",
+    "eventName": "seminar2",
+    "date": "2026-02-14",
+    "location": "class 204",
+    "description": "",
+    "assignedWorkers": [],
+    "departmentAssignments": {},
+    "status": "Upcoming",
+    "collegeId": "4"
+  }
+]

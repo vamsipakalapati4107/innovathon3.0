@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "dept-4-Cleaning",
+    "name": "Cleaning",
+    "requiredCount": 10,
+    "collegeId": "4"
+  },
+  {
+    "_id": "dept-4-Electrical",
+    "name": "Electrical",
+    "requiredCount": 10,
+    "collegeId": "4"
+  },
+  {
+    "_id": "dept-4-Plumbing",
+    "name": "Plumbing",
+    "requiredCount": 10,
+    "collegeId": "4"
+  },
+  {
+    "_id": "dept-4-Infrastructure",
+    "name": "Infrastructure",
+    "requiredCount": 10,
+    "collegeId": "4"
+  },
+  {
+    "_id": "dept-4-Security",
+    "name": "Security",
+    "requiredCount": 10,
+    "collegeId": "4"
+  },
+  {
+    "_id": "dept-4-Washroom_Maintenance",
+    "name": "Washroom Maintenance",
+    "requiredCount": 10,
+    "collegeId": "4"
+  },
+  {
+    "_id": "dept-4-HVAC",
+    "name": "HVAC",
+    "requiredCount": 10,
+    "collegeId": "4"
+  }
+]
